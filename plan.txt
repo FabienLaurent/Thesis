@@ -1,0 +1,23 @@
+
+Intro
+
+I) State of the art
+-Collision avoidance in human robot interaction
+-Potential field and Circular field
+-Robot Dynamic and control
+
+II) Je sais pas comment l'appeler mais avec dedans
+-l'explication de l'extension à un robot 3D
+1) level 1 (ce qu'à fait rico)
+-la définition du courant de surface
+(-les tests de base et l'explication qui correspond de la modif du courrant et compagnie pour que ca
+se passe bien)
+-les perception shaping de base.
+2) level 2 (ce que j'ai fait)
+-les bindings
+-les cycles
+-les dof (???)
+-le decision making (???)
+
+III) Structured Analysis ?? (cf rico thesis)
+4)Analysis : simulation and experiments
